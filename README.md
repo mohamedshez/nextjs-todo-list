@@ -1,7 +1,7 @@
 ## [ToDo App Tech Test](https://github.com/shez1461) TODO App Tech Test
 Inspired & Reffered by various demos online and YouTube.
 
-## ToDo App Demo
+## App Demo
 [Open Live Demo](https://shez.app)
 ## Features
 
